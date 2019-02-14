@@ -1,6 +1,4 @@
 <?php
-setcookie ("history", "", time() - 3600);
-
 function convertCurrency($amount, $from, $to){
     $conv_id = "{$from}_{$to}";
     $string = file_get_contents("https://free.currencyconverterapi.com/api/v6/convert?q=$conv_id&compact=ultra&apiKey=02912f070c72b93e8dba");
