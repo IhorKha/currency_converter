@@ -12,12 +12,12 @@
 <div class="container" >
     <form action="convert.php" id="form"  method="POST" >
         <div class="form-row mt-5">
-            <div class="form-group col-sm-2">
+            <div class="form-group col-md-2">
                 <label >Меняю</label>
                 <input type="number" name="amount" class="form-control" placeholder="0.00">
 
             </div>
-            <div class="form-group col-sm-1  mt-2">
+            <div class="form-group col-md-2  mt-2">
                 <label></label>
                 <select name="from" class="form-control">
                     <option selected>USD</option>
@@ -27,15 +27,13 @@
                     <option>AUD</option>
                     <option>CAD</option>
                     <option>CNY</option>
-
                 </select>
             </div>
-
-            <div class="form-group col-sm-2  border-bottom ">
+            <div class="form-group col-md-2 border-bottom ">
                <label >Получаю</label> <br>
                 <label id="results" class="mt-2"  ></label>
             </div>
-            <div class="form-group col-sm-1 mt-2">
+            <div class="form-group col-md-2 mt-2">
                 <label></label>
                 <select name="to" class="form-control">
                     <option selected>UAH</option>
@@ -47,7 +45,7 @@
                     <option>CNY</option>
                 </select>
             </div>
-            <div class="form-group col-sm-2">
+            <div class="form-group col-md-2">
             <button type="submit" class="btn btn-primary center mt-4 ">Рассчитать</button>
             </div>
         </div>
