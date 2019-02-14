@@ -1,5 +1,5 @@
-10 USD - 272.77UAH  &ensp; &ensp; 2019-02-14 21:27:42<br>
-12 USD - 327.324UAH  &ensp; &ensp; 2019-02-14 21:27:46<br>
-123 USD - 108.855EUR  &ensp; &ensp; 2019-02-14 21:27:55<br>
-654 USD - 578.79EUR  &ensp; &ensp; 2019-02-14 21:28:00<br>
-654 USD - 920.505AUD  &ensp; &ensp; 2019-02-14 21:28:06<br>
+10 USD - 272.77 UAH  &ensp; &ensp; 2019-02-14 21:27:42<br>
+12 USD - 327.324 UAH  &ensp; &ensp; 2019-02-14 21:27:46<br>
+123 USD - 108.855 EUR  &ensp; &ensp; 2019-02-14 21:27:55<br>
+654 USD - 578.79 EUR  &ensp; &ensp; 2019-02-14 21:28:00<br>
+654 USD - 920.50 5AUD  &ensp; &ensp; 2019-02-14 21:28:06<br>

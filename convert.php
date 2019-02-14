@@ -10,7 +10,7 @@ function convertCurrency($amount, $from, $to){
  $convert=convertCurrency($_POST['amount'], $_POST['from'], $_POST['to']);
 echo $convert;
 
-$history = $_POST['amount']." ". $_POST['from']." - ". $convert.  $_POST['to']." "." &ensp; &ensp; ". date("Y-m-d H:i:s")."<br>". "\n" ;
+$history = $_POST['amount']." ". $_POST['from']." - ". $convert. " ". $_POST['to']." "." &ensp; &ensp; ". date("Y-m-d H:i:s")."<br>". "\n" ;
 $fp = fopen("history.txt",'a');
 $test = fwrite($fp, $history);
 
